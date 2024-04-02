@@ -1,0 +1,10 @@
+C:\Users\AI16\source\repos\ch\chns\obj\Debug\chns.csproj.AssemblyReference.cache
+C:\Users\AI16\source\repos\ch\chns\obj\Debug\chns.Form1.resources
+C:\Users\AI16\source\repos\ch\chns\obj\Debug\chns.Properties.Resources.resources
+C:\Users\AI16\source\repos\ch\chns\obj\Debug\chns.csproj.GenerateResource.cache
+C:\Users\AI16\source\repos\ch\chns\obj\Debug\chns.csproj.CoreCompileInputs.cache
+C:\Users\AI16\source\repos\ch\chns\bin\Debug\chns.exe.config
+C:\Users\AI16\source\repos\ch\chns\bin\Debug\chns.exe
+C:\Users\AI16\source\repos\ch\chns\bin\Debug\chns.pdb
+C:\Users\AI16\source\repos\ch\chns\obj\Debug\chns.exe
+C:\Users\AI16\source\repos\ch\chns\obj\Debug\chns.pdb
