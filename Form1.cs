@@ -147,7 +147,7 @@ namespace chns
         }
 
         private void button6_Click(object sender, EventArgs e)
-        {
+        {       
             if (a == 0)
             {
                 textBox1.Text += "5";
@@ -157,7 +157,7 @@ namespace chns
 
         private void button7_Click(object sender, EventArgs e)
         {
-            if (a == 0)
+            if (a == 0) 
             {
                 textBox1.Text += "6";
             }
