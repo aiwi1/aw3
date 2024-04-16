@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//version 0.3
+
 namespace chns
 {
     public partial class Form1 : Form
